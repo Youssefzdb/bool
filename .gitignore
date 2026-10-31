@@ -3,3 +3,4 @@ dist/
 .secret/
 *.log
 .DS_Store
+tsconfig.tsbuildinfo
